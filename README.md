@@ -1,8 +1,8 @@
 # os211
 ## Operating Systems 2021-1
-** ♤ Welcome to __Astrid's__ GitHub Page! ♤ **
+♤ Welcome to _Astrid's_ GitHub Page! ♤ 
 
-[Home](https://astriddiany.github.io/os211/) | [My Github](https://github.com/astriddiany/os211) 
+[Home](https://astriddiany.github.io/os211/) | [My Repo](https://github.com/astriddiany/os211) | [Log](https://github.com/astriddiany/os211/blob/master/TXT/mylog.txt) | [Rank](https://github.com/astriddiany/os211/blob/master/TXT/myrank.txt) | [Key](https://github.com/astriddiany/os211/blob/master/TXT/mypubkey.txt) 
 
 ## Operating System Weekly Top Ten List
 * [W01](https://astriddiany.github.io/os211/W01/)
