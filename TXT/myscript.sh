@@ -1,4 +1,3 @@
-vi myscript.sh
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
