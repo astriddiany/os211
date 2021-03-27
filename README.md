@@ -8,3 +8,4 @@
 * [W01](https://astriddiany.github.io/os211/W01/)
 * [W02](https://astriddiany.github.io/os211/W02/)
 * [W03](https://astriddiany.github.io/os211/W03/)
+* [W04](https://astriddiany.github.io/os211/W04/)
